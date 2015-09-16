@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金七十論
+#+DATE: 2015-08-31 00:08:39.303196
+#+PROPERTY: JUAN 0
